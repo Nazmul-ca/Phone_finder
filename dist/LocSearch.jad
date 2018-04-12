@@ -1,0 +1,8 @@
+MIDlet-1: LocSearch, , LocSearch
+MIDlet-Jar-Size: 2900
+MIDlet-Jar-URL: LocSearch.jar
+MIDlet-Name: LocSearch
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
